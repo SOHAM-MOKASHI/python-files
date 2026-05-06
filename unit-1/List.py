@@ -5,7 +5,7 @@
 list_1=['cat','dog','snake','lion','fish']
 print('LIST :',list_1)
 
-print('Accessing element :',list_1[1])
+print('Accessing element :',list_1[0])
 
 #Add and remove elements 
 
